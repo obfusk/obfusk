@@ -7,7 +7,7 @@
   - Functional Programming, Programming Language Design, DSLs, Parsing (& RexExps);
   - Testing, Automation, Command Line Interfaces, Tooling;
   - Software Freedom, Computer Science & InfoSec, Privacy, Math, 日本語;
-  - Python, Haskell, Lisp, JavaScript, Bash, Debian, Linux, Git, ...
+  - Python🐍, Haskell, Lisp, JavaScript, Bash, Debian, Linux, Git, ...
 - 🔭 I'm currently working on
   - [jiten - japanese dictionary](https://github.com/obfusk/jiten);
   - [koneko - a concatenative not-quite-lisp for kittens](https://github.com/obfusk/koneko).
