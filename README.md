@@ -11,7 +11,7 @@
 - 🔭 I'm currently working on
   - [jiten - japanese dictionary](https://github.com/obfusk/jiten);
   - [koneko - a concatenative not-quite-lisp for kittens](https://github.com/obfusk/koneko).
-- 🌱 I'm currently learning Japanese & Rust.
+- 🌱 I'm currently learning Japanese (JLPT N2 ✔️) & Rust.
 - 🍵 Want to support my work? You can [buy me a ~coffee~ cup of tea](https://ko-fi.com/obfusk).
 - 🗣️ I speak English 🇬🇧, Nederlands 🇳🇱, Deutsch 🇩🇪 & 日本語 🇯🇵.
 - 😄 Pronouns: they/them.
