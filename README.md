@@ -16,3 +16,7 @@
 - 🍵 Want to support my work? You can [buy me a ~coffee~ cup of tea](https://ko-fi.com/obfusk).
 - 🗣️ I speak English 🇬🇧, Nederlands 🇳🇱, Deutsch 🇩🇪 & 日本語 🇯🇵.
 - 😄 Pronouns: they/them.
+
+### Repositories & Contributions
+
+My [website](https://obfusk.ch) has an [overview of my repositories](https://obfusk.ch/repos.html) and [repositories I've contributed to](https://obfusk.ch/contribs.html).
