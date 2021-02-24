@@ -7,7 +7,7 @@
 - 💬 Ask — or tell — me about
   - Functional Programming, Programming Language Design, DSLs, Parsing (& RexExps);
   - Testing, Automation, Command Line Interfaces, Tooling;
-  - Software Freedom, Computer Science & InfoSec, Privacy, Math, 日本語;
+  - [Software Freedom](https://fsfe.org), Computer Science & InfoSec, Privacy, Math, 日本語;
   - Python 🐍, Haskell, Lisp, JavaScript, Bash, [Debian 🍥](https://www.debian.org), Linux 🐧, Git, ...
 - 🔭 I'm currently working on
   - [jiten - japanese dictionary](https://github.com/obfusk/jiten);
