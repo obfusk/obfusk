@@ -11,7 +11,8 @@
   - Python 🐍, Haskell, Lisp, JavaScript, Bash, [Debian 🍥](https://www.debian.org), Linux 🐧, Git, ...
 - 🔭 I'm currently working on
   - [jiten - japanese dictionary](https://github.com/obfusk/jiten);
-  - [koneko - a concatenative not-quite-lisp for kittens](https://github.com/obfusk/koneko).
+  - [koneko - a concatenative not-quite-lisp for kittens](https://github.com/obfusk/koneko);
+  - [shtst - simple cli testing](https://github.com/obfusk/shtst).
 - 🌱 I'm currently learning Japanese (JLPT N2 ✔️) & Rust.
 - 🍵 Want to support my work? You can [buy me a ~coffee~ cup of tea](https://ko-fi.com/obfusk).
 - 🗣️ I speak English 🇬🇧, Nederlands 🇳🇱, Deutsch 🇩🇪 & 日本語 🇯🇵.
