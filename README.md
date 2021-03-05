@@ -14,7 +14,7 @@
   - [koneko - a concatenative not-quite-lisp for kittens](https://github.com/obfusk/koneko);
   - [shtst - simple cli testing](https://github.com/obfusk/shtst).
 - 🌱 I'm currently learning Japanese (JLPT N2 ✔️) & Rust.
-- 🍵 Want to support my work? You can [buy me a ~coffee~ cup of tea](https://ko-fi.com/obfusk).
+- 🍵 Want to support my work? You can [buy me a ~coffee~ cup of tea](https://ko-fi.com/obfusk) ♥.
 - 🗣️ I speak English 🇬🇧, Nederlands 🇳🇱, Deutsch 🇩🇪 & 日本語 🇯🇵.
 - 😄 Pronouns: they/them.
 
