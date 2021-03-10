@@ -20,4 +20,6 @@
 
 ### Repositories & Contributions
 
+→ [GitLab](https://gitlab.com/obfusk), → [Salsa](https://salsa.debian.org/obfusk), → [Heptapod](https://foss.heptapod.net/obfusk)
+
 My [website](https://obfusk.ch) has an [overview of my repositories](https://obfusk.ch/repos.html) and [repositories I've contributed to](https://obfusk.ch/contribs.html).
