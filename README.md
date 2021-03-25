@@ -11,7 +11,8 @@
 - 🔭 I'm currently working on
   - 📚 [jiten - japanese dictionary](https://github.com/obfusk/jiten);
   - 🐈 [koneko - a concatenative not-quite-lisp for kittens](https://github.com/obfusk/koneko);
-  - ⌨️ [shtst - simple cli testing](https://github.com/obfusk/shtst).
+  - ⌨️ [shtst - simple cli testing](https://github.com/obfusk/shtst);
+  - 🔨 [apksigcopier - copy/extract/patch apk signatures](https://github.com/obfusk/apksigcopier).
 - 📱 Android apps: 📚 [Jiten Japanese Dictionary](https://github.com/obfusk/jiten#readme), 📚 [Jiten Japanese Dictionary [Online]](https://github.com/obfusk/jiten-webview#readme), 💎 [Sokoban(g) Puzzle](https://github.com/obfusk/sokobang#readme).
 - 🌱 I'm currently learning Japanese ([✔️ JLPT N2](https://en.wikipedia.org/wiki/Japanese-Language_Proficiency_Test)) & [Rust](https://www.rust-lang.org).
 - ♥ Want to support my work? You can [buy me a ~coffee~ cup of tea](https://ko-fi.com/obfusk) 🍵.
