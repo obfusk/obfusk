@@ -11,6 +11,7 @@
 - 🔭 I'm currently working on
   - 🔨 [apksigcopier - copy/extract/patch apk signatures](https://github.com/obfusk/apksigcopier);
   - 📚 [jiten - japanese dictionary](https://github.com/obfusk/jiten);
+  - ✍️ [kanjidraw - handwritten kanji recognition](https://github.com/obfusk/kanjidraw);
   - 🐈 [koneko - a concatenative not-quite-lisp for kittens](https://github.com/obfusk/koneko);
   - ⌨️ [shtst - simple cli testing](https://github.com/obfusk/shtst).
 - 📱 Android apps: 📚 [Jiten Japanese Dictionary](https://github.com/obfusk/jiten#readme), 📚 [Jiten Japanese Dictionary [Online]](https://github.com/obfusk/jiten-webview#readme), 💎 [Sokoban(g) Puzzle](https://github.com/obfusk/sokobang#readme).
