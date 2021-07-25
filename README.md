@@ -10,14 +10,15 @@
   - [🐍 Python](https://www.python.org), [Haskell](https://www.haskell.org), Lisp, JavaScript, Bash, [🍥 Debian](https://www.debian.org) GNU/Linux 🐧, Git, ...
 - 🔭 I'm currently working on
   - 🔨 [apksigcopier - copy/extract/patch apk signatures](https://github.com/obfusk/apksigcopier);
+  - 🤖 [f-droid - Free Software repository system for Android](https://f-droid.org);
   - 📚 [jiten - japanese dictionary](https://github.com/obfusk/jiten);
   - ✍️ [kanjidraw - handwritten kanji recognition](https://github.com/obfusk/kanjidraw);
   - 🐈 [koneko - a concatenative not-quite-lisp for kittens](https://github.com/obfusk/koneko);
   - ⌨️ [shtst - simple cli testing](https://github.com/obfusk/shtst).
 - 📱 Android apps: 📚 [Jiten Japanese Dictionary](https://github.com/obfusk/jiten#readme), 📚 [Jiten Japanese Dictionary [Online]](https://github.com/obfusk/jiten-webview#readme), 💎 [Sokoban(g) Puzzle](https://github.com/obfusk/sokobang#readme).
 - 🧰 Code sharing: → [GitLab](https://gitlab.com/obfusk), → [Debian Salsa](https://salsa.debian.org/obfusk), → [Heptapod](https://foss.heptapod.net/obfusk).
-- 📦 Packages: → [Debian](https://qa.debian.org/developer.php?login=flx@obfusk.net), → [NixOS](https://github.com/NixOS/nixpkgs/search?q=maintainers.obfusk); → [Repology](https://repology.org/maintainer/flx%40obfusk.net).
-- 🕸️ My [Website](https://obfusk.ch) has an overview of [My Repositories](https://obfusk.ch/repos.html) and [Repositories I've Contributed To](https://obfusk.ch/contribs.html).
+- 📦 Packages I maintain: → [Debian](https://qa.debian.org/developer.php?login=flx@obfusk.net), → [NixOS](https://github.com/NixOS/nixpkgs/search?q=maintainers.obfusk); → [Repology](https://repology.org/maintainer/flx%40obfusk.net).
+- 🕸️ My [website](https://obfusk.ch) has an overview of [my repositories](https://obfusk.ch/repos.html) and [repositories I've contributed to](https://obfusk.ch/contribs.html).
 - 🌱 I'm currently learning Japanese ([✔️ JLPT N2](https://en.wikipedia.org/wiki/Japanese-Language_Proficiency_Test)) & [Rust](https://www.rust-lang.org).
 - ♥ Want to support my work? You can [buy me a ~coffee~ cup of tea](https://ko-fi.com/obfusk) 🍵.
 - 🗣️ I speak 🇬🇧 English, 🇳🇱 Nederlands, 🇩🇪 Deutsch & 🇯🇵 日本語.
