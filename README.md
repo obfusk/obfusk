@@ -9,7 +9,7 @@
   - [Software Freedom](https://fsfe.org), Computer Science & InfoSec, Privacy, Math, Teaching, 日本語;
   - [🐍 Python](https://www.python.org), [Haskell](https://www.haskell.org), Lisp, JavaScript, Bash, [🍥 Debian](https://www.debian.org) GNU/Linux 🐧, Git, ...
 - 🔭 I'm currently working on
-  - 🔨 [apksigcopier - copy/extract/patch apk signatures](https://github.com/obfusk/apksigcopier);
+  - 🔨 [apksigcopier - copy/extract/patch android apk signatures & compare apks](https://github.com/obfusk/apksigcopier);
   - 🤖 [f-droid - Free Software repository system for Android](https://f-droid.org);
   - 📚 [jiten - japanese dictionary](https://github.com/obfusk/jiten);
   - ✍️ [kanjidraw - handwritten kanji recognition](https://github.com/obfusk/kanjidraw);
