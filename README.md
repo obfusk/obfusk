@@ -10,6 +10,7 @@
   - [🐍 Python](https://www.python.org), [Haskell](https://www.haskell.org), Lisp, JavaScript, Bash, [🍥 Debian](https://www.debian.org) GNU/Linux 🐧, Git, ...
 - 🔭 I'm currently working on
   - 🔨 [apksigcopier - copy/extract/patch android apk signatures & compare apks](https://github.com/obfusk/apksigcopier);
+  - 🔨 [apksigtool - parse/verify/clean android apk signing blocks & apks](https://github.com/obfusk/apksigtool);
   - 🤖 [f-droid - Free Software repository system for Android](https://f-droid.org);
   - 📚 [jiten - japanese dictionary](https://github.com/obfusk/jiten);
   - ✍️ [kanjidraw - handwritten kanji recognition](https://github.com/obfusk/kanjidraw);
