@@ -15,7 +15,7 @@
   - 📚 [jiten - japanese dictionary](https://github.com/obfusk/jiten);
   - ✍️ [kanjidraw - handwritten kanji recognition](https://github.com/obfusk/kanjidraw);
   - 🐈 [koneko - a concatenative not-quite-lisp for kittens](https://github.com/obfusk/koneko);
-  - ⌨️ [shtst - simple cli testing](https://github.com/obfusk/shtst).
+  - 🔨 [reproducible-apk-tools - scripts to make apks reproducible](https://github.com/obfusk/reproducible-apk-tools).
 - 📱 Android apps: 📚 [Jiten Japanese Dictionary](https://github.com/obfusk/jiten#readme), 📚 [Jiten Japanese Dictionary [Online]](https://github.com/obfusk/jiten-webview#readme), 💎 [Sokoban(g) Puzzle](https://github.com/obfusk/sokobang#readme).
 - 🧰 Code sharing: → [GitLab](https://gitlab.com/obfusk), → [Debian Salsa](https://salsa.debian.org/obfusk), → [Heptapod](https://foss.heptapod.net/obfusk).
 - 📦 Packages I maintain: → [Debian](https://qa.debian.org/developer.php?login=flx@obfusk.net), → [NixOS](https://github.com/NixOS/nixpkgs/search?q=maintainers.obfusk); → [Repology](https://repology.org/maintainer/flx%40obfusk.net).
