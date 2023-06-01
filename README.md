@@ -1,4 +1,4 @@
-### 🌈 hacking ⇒ ¬sleeping 😸
+### 🏳️‍🌈 hacking ⇒ ¬sleeping 😸
 
 - 👯 I'm looking to collaborate on
   - Diagnosing & Fixing Bugs — ✨ Feel Free to Ask 💬 if you could use some help with a Bug 🐛!
