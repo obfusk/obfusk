@@ -24,4 +24,4 @@
 - 🌱 I'm currently learning Japanese ([✔️ JLPT N2](https://en.wikipedia.org/wiki/Japanese-Language_Proficiency_Test)) & [Rust](https://www.rust-lang.org).
 - ♥ Want to support my work? You can [buy me a ~coffee~ cup of tea](https://ko-fi.com/obfusk) 🍵.
 - 🗣️ I speak 🇬🇧 English, 🇳🇱 Nederlands, 🇩🇪 Deutsch & 🇯🇵 日本語.
-- 😄 Pronouns: they/them.
+- 😄 Pronouns: she/her, they/them.
