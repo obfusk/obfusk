@@ -14,7 +14,7 @@
   - ✍️ [kanjidraw - handwritten kanji recognition](https://github.com/obfusk/kanjidraw);
   - 🐈 [koneko - a concatenative not-quite-lisp for kittens](https://github.com/obfusk/koneko).
 - 📱 Android apps: 📚 [Jiten Japanese Dictionary](https://github.com/obfusk/jiten#readme), 📚 [Jiten Japanese Dictionary [Online]](https://github.com/obfusk/jiten-webview#readme), 💎 [Sokoban(g) Puzzle](https://github.com/obfusk/sokobang#readme).
-- 🧰 Code sharing: → [GitLab](https://gitlab.com/obfusk), → [Debian Salsa](https://salsa.debian.org/obfusk).
+- 🧰 Code sharing: → [GitLab](https://gitlab.com/obfusk), → [Codeberg](https://codeberg.org/obfusk), → [Debian Salsa](https://salsa.debian.org/obfusk).
 - 📦 Packages I maintain: → [Debian](https://qa.debian.org/developer.php?login=flx@obfusk.net), → [Repology](https://repology.org/maintainer/flx%40obfusk.net).
 - 🕸️ My [website](https://obfusk.ch) has an overview of [my repositories](https://obfusk.ch/repos.html) and [repositories I've contributed to](https://obfusk.ch/contribs.html).
 - 🌱 I'm currently learning Japanese ([✔️ JLPT N2](https://en.wikipedia.org/wiki/Japanese-Language_Proficiency_Test)) & [Rust](https://www.rust-lang.org).
