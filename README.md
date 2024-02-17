@@ -12,7 +12,8 @@
   - 🐱 [catima - a Loyalty Card & Ticket Manager for Android](https://github.com/CatimaLoyalty/Android);
   - 📚 [jiten - japanese dictionary](https://github.com/obfusk/jiten);
   - ✍️ [kanjidraw - handwritten kanji recognition](https://github.com/obfusk/kanjidraw);
-  - 🐈 [koneko - a concatenative not-quite-lisp for kittens](https://github.com/obfusk/koneko).
+  - 🐈 [koneko - a concatenative not-quite-lisp for kittens](https://github.com/obfusk/koneko);
+  - ✅ [rbtlog - Reproducible Builds Transparency Log for Android APKs](https://github.com/obfusk/rbtlog).
 - 📱 Android apps: 📚 [Jiten Japanese Dictionary](https://github.com/obfusk/jiten#readme), 📚 [Jiten Japanese Dictionary [Online]](https://github.com/obfusk/jiten-webview#readme), 💎 [Sokoban(g) Puzzle](https://github.com/obfusk/sokobang#readme).
 - 🧰 Code sharing: → [GitLab](https://gitlab.com/obfusk), → [Codeberg](https://codeberg.org/obfusk), → [Debian Salsa](https://salsa.debian.org/obfusk).
 - 📦 Packages I maintain: → [Debian](https://qa.debian.org/developer.php?login=flx@obfusk.net), → [Repology](https://repology.org/maintainer/flx%40obfusk.net).
