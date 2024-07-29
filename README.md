@@ -9,11 +9,14 @@
   - [Software Freedom](https://fsfe.org), Computer Science & InfoSec, Privacy, Math, Teaching, 日本語;
   - [🐍 Python](https://www.python.org), [Haskell](https://www.haskell.org), Lisp, JavaScript, Bash, [🍥 Debian](https://www.debian.org) GNU/Linux 🐧, Git, ...
 - 🔭 I'm currently working on
+  - 🔨 [apksigcopier - copy/extract/patch android apk signatures & compare apks](https://github.com/obfusk/apksigcopier);
+  - 🔨 [apksigtool - parse/verify/clean/sign android apk (signing block)](https://github.com/obfusk/apksigtool);
   - 🐱 [catima - a Loyalty Card & Ticket Manager for Android](https://github.com/CatimaLoyalty/Android);
   - 📚 [jiten - japanese dictionary](https://github.com/obfusk/jiten);
   - ✍️ [kanjidraw - handwritten kanji recognition](https://github.com/obfusk/kanjidraw);
   - 🐈 [koneko - a concatenative not-quite-lisp for kittens](https://github.com/obfusk/koneko);
-  - ✅ [rbtlog - Reproducible Builds Transparency Log for Android APKs](https://github.com/obfusk/rbtlog).
+  - ✅ [rbtlog - Reproducible Builds Transparency Log for Android APKs](https://github.com/obfusk/rbtlog);
+  - 🔨 [reproducible-apk-tools - scripts to make android apks reproducible](https://github.com/obfusk/reproducible-apk-tools).
 - 📱 Android apps: 📚 [Jiten Japanese Dictionary](https://github.com/obfusk/jiten#readme), 📚 [Jiten Japanese Dictionary [Online]](https://github.com/obfusk/jiten-webview#readme), 💎 [Sokoban(g) Puzzle](https://github.com/obfusk/sokobang#readme).
 - 🧰 Code sharing: → [GitLab](https://gitlab.com/obfusk), → [Codeberg](https://codeberg.org/obfusk), → [Debian Salsa](https://salsa.debian.org/obfusk).
 - 📦 Packages I maintain: → [Debian](https://qa.debian.org/developer.php?login=flx@obfusk.net), → [Repology](https://repology.org/maintainer/flx%40obfusk.net).
