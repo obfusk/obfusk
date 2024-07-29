@@ -22,6 +22,6 @@
 - 📦 Packages I maintain: → [Debian](https://qa.debian.org/developer.php?login=flx@obfusk.net), → [Repology](https://repology.org/maintainer/flx%40obfusk.net).
 - 🕸️ My [website](https://obfusk.ch) has an overview of [my repositories](https://obfusk.ch/repos.html) and [repositories I've contributed to](https://obfusk.ch/contribs.html).
 - 🌱 I'm currently learning Japanese ([✔️ JLPT N2](https://en.wikipedia.org/wiki/Japanese-Language_Proficiency_Test)) & [Rust](https://www.rust-lang.org).
-- ♥ Want to support my work? You can [buy me a ~coffee~ cup of tea](https://ko-fi.com/obfusk) 🍵.
+- ❤️ Want to support my work? You can [buy me a ~coffee~ cup of tea](https://ko-fi.com/obfusk) 🍵.
 - 🗣️ I speak 🇬🇧 English, 🇳🇱 Nederlands, 🇩🇪 Deutsch & 🇯🇵 日本語.
 - 😄 Pronouns: she/her, they/them.
