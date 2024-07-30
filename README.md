@@ -9,6 +9,7 @@
   - [Software Freedom](https://fsfe.org), Computer Science & InfoSec, Privacy, Math, Teaching, 日本語;
   - [🐍 Python](https://www.python.org), [Haskell](https://www.haskell.org), Lisp, JavaScript, Bash, [🍥 Debian](https://www.debian.org) GNU/Linux 🐧, Git, ...
 - 🔭 I'm currently working on
+  - 🔨 [apkrepotool - manage APK repos](https://github.com/obfusk/apkrepotool);
   - 🔨 [apksigcopier - copy/extract/patch android apk signatures & compare apks](https://github.com/obfusk/apksigcopier);
   - 🔨 [apksigtool - parse/verify/clean/sign android apk (signing block)](https://github.com/obfusk/apksigtool);
   - 🐱 [catima - a Loyalty Card & Ticket Manager for Android](https://github.com/CatimaLoyalty/Android);
