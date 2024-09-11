@@ -6,7 +6,7 @@
 - 💬 Ask — or tell — me about
   - Functional Programming, Programming Language Design, DSLs, Parsing (& RexExps);
   - Testing, Automation, Command Line Interfaces, Tooling;
-  - [Software Freedom](https://fsfe.org), Computer Science & InfoSec, Privacy, Math, Teaching, 日本語;
+  - Software Freedom, Computer Science & InfoSec, Privacy, Math, Teaching, 日本語;
   - [🐍 Python](https://www.python.org), [Haskell](https://www.haskell.org), Lisp, JavaScript, Bash, [🍥 Debian](https://www.debian.org) GNU/Linux 🐧, Git, ...
 - 🔭 I'm currently working on
   - 🔨 [apkrepotool - manage APK repos](https://github.com/obfusk/apkrepotool);
