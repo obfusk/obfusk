@@ -12,7 +12,6 @@
   - 🔨 [apkrepotool - manage APK repos](https://github.com/obfusk/apkrepotool);
   - 🔨 [apksigcopier - copy/extract/patch android apk signatures & compare apks](https://github.com/obfusk/apksigcopier);
   - 🔨 [apksigtool - parse/verify/clean/sign android apk (signing block)](https://github.com/obfusk/apksigtool);
-  - 🐱 [catima - a Loyalty Card & Ticket Manager for Android](https://github.com/CatimaLoyalty/Android);
   - 📦 [IzzyOnDroid - Android App Repository](https://codeberg.org/izzyOnDroid);
   - 📚 [jiten - japanese dictionary](https://github.com/obfusk/jiten);
   - ✍️ [kanjidraw - handwritten kanji recognition](https://github.com/obfusk/kanjidraw);
